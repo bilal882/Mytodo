@@ -1,2 +1,2 @@
-# Mytodo
+# TodoList
 Created with CodeSandbox
